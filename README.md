@@ -1,16 +1,14 @@
 # JavaScript-Calculator
-Calculator application created with JavaScript, HTML and CSS. It is simple with easy code to help people understand how a calculator works through codes, and how to create one using JS, HTML and CSS
+Calculator application created with JavaScript, HTML and CSS. It is simple with easy code to help people understand how a calculator works through codes, and how to create one using JS, HTML and CSS.
 
 ##
-This project is intended to be simple, so the calculator can do the four main calculations, but I didn't add calculations with negative numbers or other types. Feel free to contribute if you think it's important.
+This project is intended to be simple, so the calculator can do the four main calculations, but I haven't added calculations with negative numbers or other types. Feel free to contribute if you see fit.
 
-## Thank You
-Please ⭐️ this repo and share it with others
 
 ## Screenshot
-|               Calculator HTML               
+|               Calculator JavaScript               
 :------------------------------------------------:
- ![Calculator](Calculator JavaScript.png)
+ ![Calculator](Calculator-JavaScript.png)
 
 
 ## Installation 🔌
@@ -23,6 +21,11 @@ Please ⭐️ this repo and share it with others
  
 5. Run the application :D
 
+
 ## Contributing 💡
 If you want to contribute to this project and make it better with new ideas, your pull request is very welcomed.
-If you find any issue just put it in the repository issue section, thank you.
+If you find any issue just put it in the repository issue section, let's code!
+
+
+## Thank You
+Please ⭐️ this repo and share it with others!
